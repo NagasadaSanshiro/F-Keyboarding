@@ -1,0 +1,4 @@
+2 5
+A C B D E
+B * * * H
+ABD

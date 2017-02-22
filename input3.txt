@@ -1,0 +1,8 @@
+6 4
+A X Y B
+B B B B
+K L M B
+O P Q B
+D E F B
+G H I *
+AB
